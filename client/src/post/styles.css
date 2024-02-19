@@ -1,0 +1,58 @@
+#subscribe {
+  font-size: 20px;
+  color: #333;
+}
+
+.container {
+  display: flex;
+  font-size: 20px;
+}
+
+.column {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.input {
+  margin-bottom: 10px;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.button {
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  background: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+
+.list-item {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+
+.list-item-title {
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.list-item-details {
+  font-size: 14px;
+  color: #555;
+}
